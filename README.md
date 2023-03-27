@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [new-portfolio] <a name="about-project"></a>
+# 📖 [codereview] <a name="about-project"></a>
 
-**[new-portfolio]** is a is a portfolio project, it's static website with simple html and css
+**[codereview]** is a is a portfolio project, it's static website with simple html and css
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -92,18 +92,7 @@ To run the application, run the following command:
 
 Open the `index.html` file in your browser
 
-### Run Linters
 
-To run tests, run the following command:
-***Webhint***
-```sh
-  npx hint .
-```
-
-***Stylelint***
-```sh
-  npx stylelint "**/*.{css,scss}" 
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +141,7 @@ If you like this project and to give advise am happy to meet you
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- would like to thank all my cooding partners and reviewers
+ would like to thank all my codding partner and frend to give me this code and his trial frend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
